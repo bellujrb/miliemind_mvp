@@ -1,0 +1,28 @@
+import 'package:miliemind_mvp/modules/inventory_portage/infra/model/questions_model.dart';
+
+List<QuestionsModel> cognitiveThreeToFourList = [
+  QuestionsModel(id: 1, description: "Nomeia objetos como sendo grandes ou pequenos.", result: false),
+  QuestionsModel(id: 2, description: "Aponta para 10 partes do corpo quando requisitado.", result: false),
+  QuestionsModel(id: 3, description: "Aponta para menino e menina, dada a ordem.", result: false),
+  QuestionsModel(id: 4, description: "Diz se um objeto é pesado ou leve.", result: false),
+  QuestionsModel(id: 5, description: "Une 2 partes de uma figura para formar o todo.", result: false),
+  QuestionsModel(id: 6, description: "Descreve 2 eventos ou personagens de uma estória familiar ou programa de televisão.", result: false),
+  QuestionsModel(id: 7, description: "Repete brincadeiras (rimas ou canções) que envolvam movimentos coordenados.", result: false),
+  QuestionsModel(id: 8, description: "Emparelha 3 ou mais objetos.", result: false),
+  QuestionsModel(id: 9, description: "Aponta para objetos compridos ou curtos.", result: false),
+  QuestionsModel(id: 10, description: "Associa objetos correspondentes. Ex: meia/sapato.", result: false),
+  QuestionsModel(id: 11, description: "Conta até 3 imitando um adulto.", result: false),
+  QuestionsModel(id: 12, description: "Agrupa objetos em categorias.", result: false),
+  QuestionsModel(id: 13, description: "Traça um (V) em imitação.", result: false),
+  QuestionsModel(id: 14, description: "Traça uma linha diagonal dado o exemplo.", result: false),
+  QuestionsModel(id: 15, description: "Conta até 10 objetos, imitando um adulto.", result: false),
+  QuestionsModel(id: 16, description: "Constrói uma ponte com 3 blocos por imitação.", result: false),
+  QuestionsModel(id: 17, description: "Emparelha uma sequência ou padrão (tamanho, cor) de blocos ou contas.", result: false),
+  QuestionsModel(id: 18, description: "Copia uma série de (V) interligados.", result: false),
+  QuestionsModel(id: 19, description: "Acrescenta perna ou braço em um desenho incompleto da figura humana.", result: false),
+  QuestionsModel(id: 20, description: "Completa um quebra-cabeças de 6 peças.", result: false),
+  QuestionsModel(id: 21, description: "Indica se os objetos são iguais ou diferentes.", result: false),
+  QuestionsModel(id: 22, description: "Desenha um quadrado imitando um adulto.", result: false),
+  QuestionsModel(id: 23, description: "Nomeia 3 cores sendo requisitado.", result: false),
+  QuestionsModel(id: 24, description: "Nomeia 3 formas geométricas (quadrado, triângulo e círculo).", result: false),
+];

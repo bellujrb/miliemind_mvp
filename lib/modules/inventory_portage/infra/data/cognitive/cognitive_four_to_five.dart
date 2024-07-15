@@ -1,0 +1,26 @@
+import 'package:miliemind_mvp/modules/inventory_portage/infra/model/questions_model.dart';
+
+List<QuestionsModel> cognitiveFourToFiveList = [
+  QuestionsModel(id: 1, description: "Apanha de 1 a 5 objetos quando solicitado.", result: false),
+  QuestionsModel(id: 2, description: "Nomeia 5 texturas diferentes.", result: false),
+  QuestionsModel(id: 3, description: "Copia um triângulo ao ser requisitado.", result: false),
+  QuestionsModel(id: 4, description: "Recorda-se de 4 objetos que haviam sido vistos em uma figura.", result: false),
+  QuestionsModel(id: 5, description: "Diz o momento do dia associado a cada atividade.", result: false),
+  QuestionsModel(id: 6, description: "Repete rimas familiares.", result: false),
+  QuestionsModel(id: 7, description: "Diz se um objeto é mais pesado ou mais leve (objetos com diferença de 0,5 quilo).", result: false),
+  QuestionsModel(id: 8, description: "Diz o que está faltando quando um objeto é retirado de um grupo de 3 objetos.", result: false),
+  QuestionsModel(id: 9, description: "Nomeia 8 cores.", result: false),
+  QuestionsModel(id: 10, description: "Identifica o valor de 3 moedas.", result: false),
+  QuestionsModel(id: 11, description: "Emparelha símbolos (letras e números).", result: false),
+  QuestionsModel(id: 12, description: "Diz a cor de objetos nomeados.", result: false),
+  QuestionsModel(id: 13, description: "Relata 5 principais fatos de uma história contada 3x.", result: false),
+  QuestionsModel(id: 14, description: "Desenha figura humana (cabeça, tronco e 4 membros).", result: false),
+  QuestionsModel(id: 15, description: "Canta 5 estrofes de uma canção.", result: false),
+  QuestionsModel(id: 16, description: "Constrói uma pirâmide de 10 blocos por imitação.", result: false),
+  QuestionsModel(id: 17, description: "Nomeia objetos como sendo compridos ou curtos.", result: false),
+  QuestionsModel(id: 18, description: "Coloca objetos 'atrás', 'ao lado' ou 'junto' a outros.", result: false),
+  QuestionsModel(id: 19, description: "Faz conjuntos iguais de 10 objetos, segundo modelo.", result: false),
+  QuestionsModel(id: 20, description: "Nomeia ou aponta para a parte ausente da figura.", result: false),
+  QuestionsModel(id: 21, description: "Conta de 1 a 20.", result: false),
+  QuestionsModel(id: 22, description: "Identifica o objeto que está colocado no meio, em primeiro e em último lugar.", result: false),
+];

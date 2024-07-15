@@ -1,0 +1,33 @@
+import 'package:miliemind_mvp/modules/inventory_portage/infra/model/questions_model.dart';
+
+List<QuestionsModel> motorFiveToSixList = [
+  QuestionsModel(id: 1, description: "Escreve letras de imprensa maiúsculas, isoladas e grandes em qualquer lugar do papel.", result: false),
+  QuestionsModel(id: 2, description: "Anda sobre uma tábua para trás, para frente e para os lados, mantendo o equilíbrio.", result: false),
+  QuestionsModel(id: 3, description: "Caminha saltitando.", result: false),
+  QuestionsModel(id: 4, description: "Balança em um balanço iniciando e mantendo o movimento.", result: false),
+  QuestionsModel(id: 5, description: "Estica os dedos tocando o polegar em cada um deles.", result: false),
+  QuestionsModel(id: 6, description: "Copia letras maiúsculas.", result: false),
+  QuestionsModel(id: 7, description: "Sobe em escadas de mão ou de escorregador de 3 m.", result: false),
+  QuestionsModel(id: 8, description: "Bate em um prego com martelo.", result: false),
+  QuestionsModel(id: 9, description: "Rebate a bola à medida que anda com direção.", result: false),
+  QuestionsModel(id: 10, description: "Consegue colorir sem sair da margem em 95% das vezes.", result: false),
+  QuestionsModel(id: 11, description: "Recorta figuras sem sair mais que 6 mm da margem.", result: false),
+  QuestionsModel(id: 12, description: "Usa apontador de lápis.", result: false),
+  QuestionsModel(id: 13, description: "Copia desenhos complexos (escola, navio).", result: false),
+  QuestionsModel(id: 14, description: "Rasga figuras simples de um papel.", result: false),
+  QuestionsModel(id: 15, description: "Dobra um papel quadrado 2x em diagonal por imitação.", result: false),
+  QuestionsModel(id: 16, description: "Apanha uma bola leve com uma só mão.", result: false),
+  QuestionsModel(id: 17, description: "Pula corda sozinho.", result: false),
+  QuestionsModel(id: 18, description: "Golpeia uma bola com um bastão ou pedaço de pau.", result: false),
+  QuestionsModel(id: 19, description: "Apanha um objeto no chão enquanto corre.", result: false),
+  QuestionsModel(id: 20, description: "Patina uma distância de 3 m, ou usa skate.", result: false),
+  QuestionsModel(id: 21, description: "Anda de bicicleta.", result: false),
+  QuestionsModel(id: 22, description: "Escorrega descendo um monte de areia ou terra.", result: false),
+  QuestionsModel(id: 23, description: "Anda ou brinca em piscina tendo água até a cintura.", result: false),
+  QuestionsModel(id: 24, description: "Conduz um patinete dando impulso com um só pé.", result: false),
+  QuestionsModel(id: 25, description: "Salta e gira em um só pé.", result: false),
+  QuestionsModel(id: 26, description: "Escreve seu nome com letras de forma em caderno pautado.", result: false),
+  QuestionsModel(id: 27, description: "Salta de uma altura de 30 cm. e cai na ponta dos pés.", result: false),
+  QuestionsModel(id: 28, description: "Pára em um só pé sem apoio com olhos fechados por 10 segundos.", result: false),
+  QuestionsModel(id: 29, description: "Dependura-se por 10 segundos em uma barra horizontal.", result: false)
+];

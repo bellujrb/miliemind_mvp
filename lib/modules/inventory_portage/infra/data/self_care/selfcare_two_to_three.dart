@@ -1,0 +1,31 @@
+import 'package:miliemind_mvp/modules/inventory_portage/infra/model/questions_model.dart';
+
+List<QuestionsModel> selfCareTwoToThreeList = [
+  QuestionsModel(id: 1, description: "Alimenta-se sozinho usando colher ou caneca, derrubando um pouco de comida ou derramando pouco líquido.", result: false),
+  QuestionsModel(id: 2, description: "Quando recebe uma toalha enxuga as mãos e o rosto com ajuda.", result: false),
+  QuestionsModel(id: 3, description: "Suga líquido do copo ou caneca usando canudinho.", result: false),
+  QuestionsModel(id: 4, description: "Dá garfadas.", result: false),
+  QuestionsModel(id: 5, description: "Mastiga e engole apenas substâncias comestíveis.", result: false),
+  QuestionsModel(id: 6, description: "Enxuga as mãos sem ajuda ao lhe darem uma toalha.", result: false),
+  QuestionsModel(id: 7, description: "Avisa que quer ir ao banheiro, mesmo sendo tarde demais.", result: false),
+  QuestionsModel(id: 8, description: "Controla sua baba.", result: false),
+  QuestionsModel(id: 9, description: "Urina ou defeca quando colocado no piniquinho pelo menos 3 vezes por semana.", result: false),
+  QuestionsModel(id: 10, description: "Calça os sapatos.", result: false),
+  QuestionsModel(id: 11, description: "Escova os dentes imitando um adulto.", result: false),
+  QuestionsModel(id: 12, description: "Retira roupas simples que foram desabotoadas.", result: false),
+  QuestionsModel(id: 13, description: "Usa o banheiro para defecar (falha apenas 1x por semana).", result: false),
+  QuestionsModel(id: 14, description: "Obtém água de uma torneira sem ajuda.", result: false),
+  QuestionsModel(id: 15, description: "Lava as mãos e o rosto com um sabonete.", result: false),
+  QuestionsModel(id: 16, description: "Avisa que quer ir ao banheiro durante o dia a tempo.", result: false),
+  QuestionsModel(id: 17, description: "Pendura o casaco em um gancho da sua altura.", result: false),
+  QuestionsModel(id: 18, description: "Permanece seco ao dormir durante o dia.", result: false),
+  QuestionsModel(id: 19, description: "Evita riscos, por exemplo, pontas em móveis e escadas sem corrimão.", result: false),
+  QuestionsModel(id: 20, description: "Usa guardanapo quando recomendado.", result: false),
+  QuestionsModel(id: 21, description: "Espeta o garfo na comida, levando-a a boca.", result: false),
+  QuestionsModel(id: 22, description: "Despeja líquido de uma pequena jarra para o copo sem ajuda.", result: false),
+  QuestionsModel(id: 23, description: "Desprende roupas presas com o feixe de pressão.", result: false),
+  QuestionsModel(id: 24, description: "Lava seus braços e pernas ao lhe darem banho.", result: false),
+  QuestionsModel(id: 25, description: "Coloca meias.", result: false),
+  QuestionsModel(id: 26, description: "Veste casaco, malha ou camisa.", result: false),
+  QuestionsModel(id: 27, description: "Identifica a parte dianteira da roupa.", result: false)
+];
